@@ -7,7 +7,7 @@
 - [CSS](#css)
 - [React](#reat)
 - [Node](#node)
-- [Quality Assurance](#quality_assurance)
+- [Quality Assurance](#quality-assurance)
 - [Articles](#articles)
 
 
