@@ -7,8 +7,9 @@
 - [CSS](#css)
 - [React](#reat)
 - [Node](#node)
-- [Testing](#testing)
+- [Quality Assurance](#quality_assurance)
 - [Articles](#articles)
 
 
-[Testing](https://devhints.io/jasmine)
+### Quality Assurance
+- [Jasmine cheatsheet](https://devhints.io/jasmine)
