@@ -29,4 +29,4 @@
 
 
 ### Android
-- [Jasmine cheatsheet](http://www.vogella.com)
+- [Detailed Android Course](http://www.vogella.com)
