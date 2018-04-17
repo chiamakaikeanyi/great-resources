@@ -31,4 +31,11 @@
 
 
 ### Android
+**For Beginners:**
+- [Android Development for Beginners](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+- [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+- [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+- [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+
 - [Detailed Android Course](http://www.vogella.com)
