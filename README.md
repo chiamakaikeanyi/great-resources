@@ -25,7 +25,7 @@
 
 
 ### React
--[Styled components](https://www.styled-components.com/docs)
+- [Styled components](https://www.styled-components.com/docs)
 
 
 ### Quality Assurance
