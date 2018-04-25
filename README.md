@@ -5,7 +5,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [CSS](#css)
-- [React](#reat)
+- [React](#react)
 - [Node](#node)
 - [Android](#android)
 - [Quality Assurance](#quality-assurance)
@@ -23,6 +23,9 @@
 ### JavaScript
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/@dsimmons_23530)
 
+
+### React
+-[Styled components](https://www.styled-components.com/docs)
 
 
 ### Quality Assurance
