@@ -26,7 +26,7 @@
 
 ### React
 - [Styled components](https://www.styled-components.com/docs)
-
+- [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 
 ### Quality Assurance
 - [Jasmine cheatsheet](https://devhints.io/jasmine)
