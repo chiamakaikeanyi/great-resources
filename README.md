@@ -14,7 +14,8 @@
 
 
 ### Computing
--[OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
+- [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
+- [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
