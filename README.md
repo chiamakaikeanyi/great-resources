@@ -2,6 +2,7 @@
 ### Collection of resources I find useful :heart:
 
 ### Content
+- [Computing](#computing)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [CSS](#css)
@@ -12,6 +13,8 @@
 - [Articles](#articles)
 
 
+### Computing
+-[OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
