@@ -28,9 +28,13 @@
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/@dsimmons_23530)
 
 
+
 ### React
 - [Styled components](https://www.styled-components.com/docs)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
+- [Introduction to react](https://youtu.be/yZ0f1Apb5CU4)
+
+
 
 ### Quality Assurance
 - [Jasmine cheatsheet](https://devhints.io/jasmine)
