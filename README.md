@@ -32,7 +32,7 @@
 ### React
 - [Styled components](https://www.styled-components.com/docs)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
-- [Introduction to react](https://youtu.be/yZ0f1Apb5CU4)
+- [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 
 
 
