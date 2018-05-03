@@ -31,12 +31,13 @@
 
 ### React
 - [Styled components](https://www.styled-components.com/docs)
+- [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 
 
 
-###AI
+### AI
 - [Building a personal bot in 5 mins with zero coding](https://medium.com/codebagng/building-a-personal-bot-with-zero-coding-ca42ea38014c)
 
 
