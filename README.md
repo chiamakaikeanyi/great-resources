@@ -5,8 +5,8 @@
 - [Computing](#computing)
 - [CSS](#css)
 - [JavaScript](#javascript)
-- [CSS](#css)
 - [React](#react)
+- [AI](#ai)
 - [Node](#node)
 - [Android](#android)
 - [Quality Assurance](#quality-assurance)
@@ -33,6 +33,11 @@
 - [Styled components](https://www.styled-components.com/docs)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [Introduction to react](https://youtu.be/yZ0f1Apb5CU4)
+
+
+
+###AI
+- [Building a personal bot in 5 mins with zero coding](https://medium.com/codebagng/building-a-personal-bot-with-zero-coding-ca42ea38014c)
 
 
 
