@@ -6,6 +6,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
+- [NextJS](#nextjs)
 - [AI](#ai)
 - [Node](#node)
 - [Android](#android)
@@ -35,6 +36,10 @@
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 
+
+### NextJS
+- [Tutorial](https://nextjs.org/learn/)
+- [GitHub Docs](https://github.com/zeit/next.js/)
 
 
 ### AI
