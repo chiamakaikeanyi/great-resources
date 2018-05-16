@@ -10,6 +10,7 @@
 - [Chat Bot](#chat-bot)
 - [Node](#node)
 - [Android](#android)
+- [Git](#git)
 - [Quality Assurance](#quality-assurance)
 - [Articles](#articles)
 
@@ -63,6 +64,10 @@
 - [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
 - [Detailed Android Course](http://www.vogella.com)
+
+
+### Git
+- [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
 
 
 ### Articles
