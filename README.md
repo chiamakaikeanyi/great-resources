@@ -7,7 +7,7 @@
 - [JavaScript](#javascript)
 - [React](#react)
 - [NextJS](#nextjs)
-- [AI](#ai)
+- [Chat Bot](#chat-bot)
 - [Node](#node)
 - [Android](#android)
 - [Quality Assurance](#quality-assurance)
@@ -31,10 +31,11 @@
 
 
 ### React
-- [Styled components](https://www.styled-components.com/docs)
-- [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
+- [Comprehensive React Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- [Styled components](https://www.styled-components.com/docs)
+- [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
 
 
 ### NextJS
@@ -42,7 +43,8 @@
 - [GitHub Docs](https://github.com/zeit/next.js/)
 
 
-### AI
+
+### Chat Bot
 - [Building a personal bot in 5 mins with zero coding](https://medium.com/codebagng/building-a-personal-bot-with-zero-coding-ca42ea38014c)
 
 
@@ -61,3 +63,7 @@
 - [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
 - [Detailed Android Course](http://www.vogella.com)
+
+
+### Articles
+- [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634?source=user_profile---------4-------------------)
