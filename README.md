@@ -12,6 +12,7 @@
 - [Android](#android)
 - [Git](#git)
 - [Quality Assurance](#quality-assurance)
+- [Front-End](#front-end)
 - [Articles](#articles)
 
 
@@ -69,6 +70,10 @@
 
 ### Git
 - [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
+
+
+### Front-End
+- [The Front-End Checklist](https://frontendchecklist.io/)
 
 
 ### Articles
