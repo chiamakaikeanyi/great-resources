@@ -22,7 +22,6 @@
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
-
 - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 
 
@@ -33,6 +32,7 @@
 
 
 ### React
+- [React Docs](https://reactjs.org/docs)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 - [How To Write Better Code In React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
@@ -44,6 +44,7 @@
 ### NextJS
 - [Tutorial](https://nextjs.org/learn/)
 - [GitHub Docs](https://github.com/zeit/next.js/)
+- [Getting started with Next](https://nextjs.org/docs/)
 
 
 
