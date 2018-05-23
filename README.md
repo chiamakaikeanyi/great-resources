@@ -55,6 +55,8 @@
 
 ### Quality Assurance
 - [Jasmine cheatsheet](https://devhints.io/jasmine)
+- [Jest](https://facebook.github.io/jest/docs/en/expect.html)
+- [Testing React components](https://www.sitepoint.com/testing-react-components/)
 
 
 
