@@ -28,6 +28,7 @@
 
 ### JavaScript
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/@dsimmons_23530)
+- [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 
 
 
