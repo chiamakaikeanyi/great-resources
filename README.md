@@ -8,7 +8,6 @@
 - [React](#react)
 - [NextJS](#nextjs)
 - [Chat Bot](#chat-bot)
-- [Node](#node)
 - [Android](#android)
 - [Git](#git)
 - [Quality Assurance](#quality-assurance)
@@ -19,6 +18,8 @@
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
+
+
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
@@ -40,6 +41,7 @@
 - [Comprehensive React Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [Styled components](https://www.styled-components.com/docs)
 - [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
+
 
 
 ### NextJS
