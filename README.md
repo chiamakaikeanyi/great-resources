@@ -13,6 +13,7 @@
 - [Quality Assurance](#quality-assurance)
 - [Front-End](#front-end)
 - [Articles](#articles)
+- [Talks](#talks)
 
 
 ### Computing
@@ -84,3 +85,6 @@
 
 ### Articles
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634?source=user_profile---------4-------------------)
+
+### Talks
+- [Awesome Talks](https://awesometalks.party)
