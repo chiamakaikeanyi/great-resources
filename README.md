@@ -12,6 +12,7 @@
 - [Git](#git)
 - [Quality Assurance](#quality-assurance)
 - [Front-End](#front-end)
+- [Kubernetes](#kubernetes)
 - [Articles](#articles)
 
 
@@ -81,6 +82,8 @@
 ### Front-End
 - [The Front-End Checklist](https://frontendchecklist.io/)
 
+### Kubernetes
+- [NodePort vs LoadBalancer vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 
 ### Articles
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634?source=user_profile---------4-------------------)
