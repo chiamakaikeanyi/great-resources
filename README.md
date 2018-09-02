@@ -77,6 +77,7 @@
 
 ### Git
 - [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
+- [Changing Author Info](https://help.github.com/articles/changing-author-info/)
 
 
 ### Front-End
