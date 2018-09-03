@@ -82,9 +82,12 @@
 
 ### Front-End
 - [The Front-End Checklist](https://frontendchecklist.io/)
+- [Become a Front-End Web Developer](https://www.youtube.com/user/Udacity/playlists?shelf_id=19&sort=dd&view=50)
 
 ### Kubernetes
 - [NodePort vs LoadBalancer vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+- [Kubernetes best practices: Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
 
 ### Articles
-- [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634?source=user_profile---------4-------------------)
+- [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
+- [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
