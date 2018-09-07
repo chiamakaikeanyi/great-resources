@@ -31,7 +31,7 @@
 ### JavaScript
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/@dsimmons_23530)
 - [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
-
+- [New built-in methods and functions in JavaScript](https://medium.freecodecamp.org/here-are-the-new-built-in-methods-and-functions-in-javascript-8f4d2fd794fa)
 
 
 ### React
@@ -42,7 +42,8 @@
 - [Comprehensive React Guide](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [Styled components](https://www.styled-components.com/docs)
 - [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
-
+- [Understanding React “Suspense”](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)
+- [How To Develop A Professional React App](https://itnext.io/how-to-develop-a-professional-react-app-c259382372cb)
 
 
 ### NextJS
