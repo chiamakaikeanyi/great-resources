@@ -1,6 +1,7 @@
 # Great-Resources
 ### Collection of resources I find useful :heart:
 
+
 ### Content
 - [Computing](#computing)
 - [CSS](#css)
@@ -44,6 +45,7 @@
 - [How to leverage styled components and css variables to build truly reusable components in React](https://medium.com/fbdevclagos/how-to-leverage-styled-components-and-css-variables-to-build-truly-reusable-components-in-react-4bbf50467666)
 - [Understanding React “Suspense”](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)
 - [How To Develop A Professional React App](https://itnext.io/how-to-develop-a-professional-react-app-c259382372cb)
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 
 ### NextJS
@@ -76,10 +78,10 @@
 - [Detailed Android Course](http://www.vogella.com)
 
 
-### Git
+### Git :octocat:
 - [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
 - [Changing Author Info](https://help.github.com/articles/changing-author-info/)
-
+- [Publish app bootstraped with create-react-app](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 
 ### Front-End
 - [The Front-End Checklist](https://frontendchecklist.io/)
