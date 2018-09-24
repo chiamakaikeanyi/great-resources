@@ -82,6 +82,7 @@
 - [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
 - [Changing Author Info](https://help.github.com/articles/changing-author-info/)
 - [Publish app bootstraped with create-react-app](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ### Front-End
 - [The Front-End Checklist](https://frontendchecklist.io/)
