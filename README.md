@@ -8,13 +8,14 @@
 - [JavaScript](#javascript)
 - [React](#react)
 - [NextJS](#nextjs)
+- [Front-End](#front-end)
 - [Chat Bot](#chat-bot)
 - [Android](#android)
 - [Git](#git)
 - [Quality Assurance](#quality-assurance)
-- [Front-End](#front-end)
 - [Kubernetes](#kubernetes)
 - [Articles](#articles)
+- [Open Source Guide](#open-source-guide)
 
 
 ### Computing
@@ -55,20 +56,17 @@
 
 
 
+### Front-End
+- [The Front-End Checklist](https://frontendchecklist.io/)
+- [Become a Front-End Web Developer](https://www.youtube.com/user/Udacity/playlists?shelf_id=19&sort=dd&view=50)
+
+
 ### Chat Bot
 - [Building a personal bot in 5 mins with zero coding](https://medium.com/codebagng/building-a-personal-bot-with-zero-coding-ca42ea38014c)
 
 
-
-### Quality Assurance
-- [Jasmine cheatsheet](https://devhints.io/jasmine)
-- [Jest](https://facebook.github.io/jest/docs/en/expect.html)
-- [Testing React components](https://www.sitepoint.com/testing-react-components/)
-
-
-
 ### Android
-**For Beginners:**
+**[x] For Beginners:**
 - [Android Development for Beginners](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 - [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
@@ -84,13 +82,20 @@
 - [Publish app bootstraped with create-react-app](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
-### Front-End
-- [The Front-End Checklist](https://frontendchecklist.io/)
-- [Become a Front-End Web Developer](https://www.youtube.com/user/Udacity/playlists?shelf_id=19&sort=dd&view=50)
+
+### Quality Assurance
+- [Jasmine cheatsheet](https://devhints.io/jasmine)
+- [Jest](https://facebook.github.io/jest/docs/en/expect.html)
+- [Testing React components](https://www.sitepoint.com/testing-react-components/)
+
 
 ### Kubernetes
 - [NodePort vs LoadBalancer vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 - [Kubernetes best practices: Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
+
+
+### Open Source Guide
+- [Open Source](https://opensource.guide)
 
 ### Articles
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
