@@ -4,6 +4,7 @@
 
 ### Content
 - [Computing](#computing)
+- [Architecture](#architecture)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
@@ -22,7 +23,8 @@
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
 
-
+### Architecture
+- [C4 Model](https://c4model.com/)
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
