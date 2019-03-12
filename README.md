@@ -8,6 +8,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
+- [Redux](#redux)
 - [NextJS](#nextjs)
 - [Front-End](#front-end)
 - [Chat Bot](#chat-bot)
@@ -15,13 +16,16 @@
 - [Git](#git)
 - [Quality Assurance](#quality-assurance)
 - [Kubernetes](#kubernetes)
-- [Articles](#articles)
+- [RabbitMQ](#rabbitmq)
+- [Node](#node)
 - [Open Source Guide](#open-source-guide)
-
+- [Articles](#articles)
+- [Generic](generic)
 
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
+- [Learning digest](https://learning-digest.andela.com/)
 
 ### Architecture
 - [C4 Model](https://c4model.com/)
@@ -36,6 +40,11 @@
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/@dsimmons_23530)
 - [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [New built-in methods and functions in JavaScript](https://medium.freecodecamp.org/here-are-the-new-built-in-methods-and-functions-in-javascript-8f4d2fd794fa)
+- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
+- [Engineering Health](https://engineering.cerner.com/blog)
+- [30 seconds of code](https://30secondsofcode.org/)
+
 
 
 ### React
@@ -56,6 +65,9 @@
 - [GitHub Docs](https://github.com/zeit/next.js/)
 - [Getting started with Next](https://nextjs.org/docs/)
 
+
+### Redux
+- [Redux in 1 minute](https://poet.codes/e/KMXQEO2gquN)
 
 
 ### Front-End
@@ -96,9 +108,23 @@
 - [Kubernetes best practices: Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
 
 
+### RabbitMQ
+- [Tutorials](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
+
+
+### Node
+- [Learn Node](https://github.com/workshopper/learnyounode/tree/master/exercises)
+
+
 ### Open Source Guide
 - [Open Source](https://opensource.guide)
+
 
 ### Articles
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
 - [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
+- [Learning to Learn](https://css-tricks.com/learning-to-learn/)
+
+### Generic
+- [Dev docs](https://devdocs.io)
+- [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
