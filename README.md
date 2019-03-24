@@ -20,7 +20,10 @@
 - [Node](#node)
 - [Open Source Guide](#open-source-guide)
 - [Articles](#articles)
-- [Generic](generic)
+- [Serverless](#serverless)
+- [Design](#design)
+- [Career Building](#career-building)
+- [Generic](#generic)
 
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
@@ -124,6 +127,20 @@
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
 - [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
+
+
+### Serverless
+- [The simplest, most powerful way to build serverless applications](https://arc.codes/)
+
+
+### Design
+- [Bridge the gap between designers and developers](https://www.figma.com/proto/dybnjin617hvFp7jCAzoTfBj/forloop-talk?node-id=80%3A129&viewport=-2564%2C412%2C0.149225&scaling=min-zoom&redirected=1)
+
+
+### Career Building
+- [Resources for underrepresented people in tech](https://www.diversifytech.co/)
+- [Growth-Hack Your Career as a WIT](https://dev.to/vuevixens/growth-hack-your-career-as-a-wit-5207)
+
 
 ### Generic
 - [Dev docs](https://devdocs.io)
