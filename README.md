@@ -37,6 +37,7 @@
 - [The BEM Naming Convention](http://getbem.com/naming/)
 - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 - [CSS Triggers](https://csstriggers.com/)
+- [Things to Note in CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 
 
 ### JavaScript
@@ -76,7 +77,7 @@
 ### Front-End
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [Become a Front-End Web Developer](https://www.youtube.com/user/Udacity/playlists?shelf_id=19&sort=dd&view=50)
-
+- [AMP](https://docs.google.com/presentation/d/1DLzftnZNDdzWk82KGcm4YLfOyA3GJ6IH62Yh0MBG-NU/edit#slide=id.g544ec0ed75_4_180)
 
 ### Chat Bot
 - [Building a personal bot in 5 mins with zero coding](https://medium.com/codebagng/building-a-personal-bot-with-zero-coding-ca42ea38014c)
@@ -135,6 +136,8 @@
 
 ### Design
 - [Bridge the gap between designers and developers](https://www.figma.com/proto/dybnjin617hvFp7jCAzoTfBj/forloop-talk?node-id=80%3A129&viewport=-2564%2C412%2C0.149225&scaling=min-zoom&redirected=1)
+- [Principles of design](https://www.3pillarglobal.com/insights/dieter-rams-10-principles-good-design)
+- [Carbon Design System](https://www.carbondesignsystem.com/patterns/common-actions)
 
 
 ### Career Building
@@ -143,5 +146,6 @@
 
 
 ### Generic
+- [JAM Stack](https://whats-your-jamstack.amberley.io)
 - [Dev docs](https://devdocs.io)
 - [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
