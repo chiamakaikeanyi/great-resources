@@ -23,6 +23,7 @@
 - [Serverless](#serverless)
 - [Design](#design)
 - [Career Building](#career-building)
+- [Gtm](#gtm)
 - [Generic](#generic)
 
 ### Computing
@@ -144,6 +145,10 @@
 ### Career Building
 - [Resources for underrepresented people in tech](https://www.diversifytech.co/)
 - [Growth-Hack Your Career as a WIT](https://dev.to/vuevixens/growth-hack-your-career-as-a-wit-5207)
+
+
+### GTM
+- [Custom events in Google Tag Manager](https://www.competa.com/blog/custom-events-in-google-tag-manager/)
 
 
 ### Generic
