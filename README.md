@@ -23,6 +23,7 @@
 - [Serverless](#serverless)
 - [Design](#design)
 - [Career Building](#career-building)
+- [Performance](#performance)
 - [Gtm](#gtm)
 - [Generic](#generic)
 
@@ -145,6 +146,11 @@
 ### Career Building
 - [Resources for underrepresented people in tech](https://www.diversifytech.co/)
 - [Growth-Hack Your Career as a WIT](https://dev.to/vuevixens/growth-hack-your-career-as-a-wit-5207)
+
+
+### Performance
+- [Modern Dev Tools](https://moderndevtools.com/)
+- [Web.dev](https://web.dev/)
 
 
 ### GTM
