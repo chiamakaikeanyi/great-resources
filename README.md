@@ -146,7 +146,8 @@
 ### Career Building
 - [Resources for underrepresented people in tech](https://www.diversifytech.co/)
 - [Growth-Hack Your Career as a WIT](https://dev.to/vuevixens/growth-hack-your-career-as-a-wit-5207)
-
+- [6 Skills Every Junior Developer Needs To Succeed](https://buttercms.com/blog/best-skills-for-junior-developers-job-success)
+- [Working on your Soft Skills as a Software Developer](https://speakerdeck.com/chiamakaikeanyi/working-on-your-soft-skills-as-a-software-developer)
 
 ### Performance
 - [Modern Dev Tools](https://moderndevtools.com/)
