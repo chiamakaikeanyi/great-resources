@@ -51,7 +51,7 @@
 - [Engineering Health](https://engineering.cerner.com/blog)
 - [30 seconds of code](https://30secondsofcode.org/)
 - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
-
+- [JavaScript Interview Questions](http://www.zsoltnagy.eu/category/javascript-interview-questions/)
 
 ### React
 - [React Docs](https://reactjs.org/docs)
