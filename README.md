@@ -19,21 +19,24 @@
 - [RabbitMQ](#rabbitmq)
 - [Node](#node)
 - [Open Source Guide](#open-source-guide)
-- [Articles](#articles)
 - [Serverless](#serverless)
 - [Design](#design)
 - [Career Building](#career-building)
 - [Performance](#performance)
 - [Gtm](#gtm)
+- [Articles](#articles)
 - [Generic](#generic)
+
 
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
 - [Learning digest](https://learning-digest.andela.com/)
 
+
 ### Architecture
 - [C4 Model](https://c4model.com/)
+
 
 ### CSS
 - [The BEM Naming Convention](http://getbem.com/naming/)
@@ -52,6 +55,7 @@
 - [30 seconds of code](https://30secondsofcode.org/)
 - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [JavaScript Interview Questions](http://www.zsoltnagy.eu/category/javascript-interview-questions/)
+
 
 ### React
 - [React Docs](https://reactjs.org/docs)
@@ -127,12 +131,6 @@
 - [Open Source](https://opensource.guide)
 
 
-### Articles
-- [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
-- [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
-- [Learning to Learn](https://css-tricks.com/learning-to-learn/)
-
-
 ### Serverless
 - [The simplest, most powerful way to build serverless applications](https://arc.codes/)
 
@@ -149,13 +147,22 @@
 - [6 Skills Every Junior Developer Needs To Succeed](https://buttercms.com/blog/best-skills-for-junior-developers-job-success)
 - [Working on your Soft Skills as a Software Developer](https://speakerdeck.com/chiamakaikeanyi/working-on-your-soft-skills-as-a-software-developer)
 
+
 ### Performance
-- [Modern Dev Tools](https://moderndevtools.com/)
-- [Web.dev](https://web.dev/)
+- [Modern Dev Tools](https://moderndevtools.com)
+- [Web.dev](https://web.dev)
+- [Google Developers Web platform](https://developers.google.com/web)
+- [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 
 
 ### GTM
 - [Custom events in Google Tag Manager](https://www.competa.com/blog/custom-events-in-google-tag-manager/)
+
+
+### Articles
+- [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
+- [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
+- [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 
 
 ### Generic
