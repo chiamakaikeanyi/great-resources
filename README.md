@@ -84,6 +84,7 @@
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [Become a Front-End Web Developer](https://www.youtube.com/user/Udacity/playlists?shelf_id=19&sort=dd&view=50)
 - [AMP](https://docs.google.com/presentation/d/1DLzftnZNDdzWk82KGcm4YLfOyA3GJ6IH62Yh0MBG-NU/edit#slide=id.g544ec0ed75_4_180)
+- [What knowledge should you have to be a frontend developer?](https://jobs.zalando.com/tech/blog/what-knowledge-should-you-have-to-be-a-good-frontend-developer/?gh_src=4n3gxh1)
 
 
 ### Chat Bot
