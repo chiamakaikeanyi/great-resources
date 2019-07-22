@@ -26,7 +26,7 @@
 - [Gtm](#gtm)
 - [Articles](#articles)
 - [Generic](#generic)
-
+- [Interview](#interview)
 
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
@@ -170,3 +170,7 @@
 - [JAM Stack](https://whats-your-jamstack.amberley.io)
 - [Dev docs](https://devdocs.io)
 - [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
+
+
+### Interview
+- [Culture Queries](https://www.keyvalues.com/culture-queries)
