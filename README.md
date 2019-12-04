@@ -166,6 +166,7 @@
 - [F8 Lagos 2018](https://medium.com/fbdevclagos/f8-lagos-2018-facebook-developer-circles-hosts-viewing-event-in-lagos-6d6c6f597634)
 - [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
+- [The Developer’s Edge: How To Become A Senior Developer](https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/)
 
 
 ### Generic
