@@ -32,6 +32,7 @@
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
 - [Learning digest](https://learning-digest.andela.com/)
+- [Web development,illustrated](https://illustrated.dev/)
 
 
 ### Architecture
