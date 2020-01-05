@@ -57,6 +57,7 @@
 - [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [JavaScript Interview Questions](http://www.zsoltnagy.eu/category/javascript-interview-questions/)
 - [Go Make Things](https://gomakethings.com/)
+- [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/)
 
 
 ### React
