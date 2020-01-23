@@ -33,6 +33,8 @@
 - [Using frame studio](https://www.facebook.com/fbcameraeffects/home/#_=_)
 - [Learning digest](https://learning-digest.andela.com/)
 - [Web development,illustrated](https://illustrated.dev/)
+- [Hands-on Regex 1](https://regex101.com/)
+- [Hands-on Regex 2](https://www.debuggex.com/)
 
 
 ### Architecture
