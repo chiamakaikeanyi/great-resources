@@ -61,6 +61,7 @@
 - [JavaScript Interview Questions](http://www.zsoltnagy.eu/category/javascript-interview-questions/)
 - [Go Make Things](https://gomakethings.com/)
 - [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/)
+- [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
 
 
 ### React
