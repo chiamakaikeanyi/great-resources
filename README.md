@@ -23,6 +23,7 @@
 - [Design](#design)
 - [Career Building](#career-building)
 - [Performance](#performance)
+- [DevTools](#devtools)
 - [Gtm](#gtm)
 - [Articles](#articles)
 - [Generic](#generic)
@@ -163,6 +164,10 @@
 - [Web.dev](https://web.dev)
 - [Google Developers Web platform](https://developers.google.com/web)
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+
+
+### DevTools
+- [React DevTools](https://react-devtools-tutorial.now.sh/component-filters)
 
 
 ### GTM
