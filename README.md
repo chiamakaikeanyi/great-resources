@@ -50,6 +50,7 @@
 - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 - [CSS Triggers](https://csstriggers.com/)
 - [Things to Note in CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 
 
 ### JavaScript
@@ -114,7 +115,7 @@
 
 
 ### Git :octocat:
-- [Working with Git](https://medium.com/@chiamakaikeanyi/working-with-git-9dafa8f986b3)
+- [Working with Git](https://chiamakaikeanyi.dev/working-with-git/)
 - [Changing Author Info](https://help.github.com/articles/changing-author-info/)
 - [Publish app bootstraped with create-react-app](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
@@ -154,6 +155,7 @@
 
 
 ### Career Building
+- [Starting Out as a Newbie in the Tech Industry](https://chiamakaikeanyi.dev/starting-out-as-a-newbie-in-the-tech-industry/)
 - [Resources for underrepresented people in tech](https://www.diversifytech.co/)
 - [Growth-Hack Your Career as a WIT](https://dev.to/vuevixens/growth-hack-your-career-as-a-wit-5207)
 - [6 Skills Every Junior Developer Needs To Succeed](https://buttercms.com/blog/best-skills-for-junior-developers-job-success)
