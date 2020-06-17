@@ -42,6 +42,9 @@
 - [C4 Model](https://c4model.com/)
 - [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 - [The Twelve-Factor App](https://12factor.net/)
+- [Micro frontends](https://martinfowler.com/articles/micro-frontends.html)
+- [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+- [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
 - [DB diagram](https://dbdiagram.io/home)
 
 
