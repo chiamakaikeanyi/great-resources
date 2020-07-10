@@ -5,6 +5,7 @@
 ### Content
 - [Computing](#computing)
 - [Architecture](#architecture)
+- [Code Review](#code-review)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
@@ -46,6 +47,10 @@
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
 - [DB diagram](https://dbdiagram.io/home)
+
+
+### Code Review
+- [Effective Code Reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
 
 
 ### CSS
