@@ -5,6 +5,7 @@
 ### Content
 - [Computing](#computing)
 - [Architecture](#architecture)
+- [Clean Code](#clean-code)
 - [Code Review](#code-review)
 - [CSS](#css)
 - [JavaScript](#javascript)
@@ -47,6 +48,11 @@
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
 - [DB diagram](https://dbdiagram.io/home)
+
+
+### Clean Code
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean Code Python](https://github.com/zedr/clean-code-python)
 
 
 ### Code Review
