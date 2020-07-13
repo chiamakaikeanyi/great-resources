@@ -48,6 +48,7 @@
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
 - [DB diagram](https://dbdiagram.io/home)
+- [Design Patterns and Techniques](https://vasanthk.gitbooks.io/react-bits/patterns/27.passing-function-to-setState.html)
 
 
 ### Clean Code
