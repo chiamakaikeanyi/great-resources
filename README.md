@@ -30,6 +30,10 @@
 - [Articles](#articles)
 - [Generic](#generic)
 - [Interview](#interview)
+- [Reminder](#Reminder)
+- [Blogs](#blogs)
+- [Newsletter](#newsletter)
+
 
 ### Computing
 - [OOP Concepts](https://www.edureka.co/blog/object-oriented-programming/)
@@ -207,3 +211,16 @@
 
 ### Interview
 - [Culture Queries](https://www.keyvalues.com/culture-queries)
+
+
+### Reminder
+- [An Ambitious Person’s Brutally Honest Take On Work-Life Balance](https://medium.com/accelerated-intelligence/an-ambitious-persons-take-on-work-life-balance-i-almost-lost-hope-in-my-marriage-b6f0c0355c2)
+
+
+### Blogs
+- [Overreacted](https://overreacted.io/)
+- [JavaScript Glossary](https://whatthefuck.is/)
+
+
+### Newsletter
+- [Just Javascript](https://justjavascript.com/)
