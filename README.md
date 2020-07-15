@@ -56,6 +56,7 @@
 
 
 ### Clean Code
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Clean Code Python](https://github.com/zedr/clean-code-python)
 
@@ -206,7 +207,6 @@
 ### Generic
 - [JAM Stack](https://whats-your-jamstack.amberley.io)
 - [Dev docs](https://devdocs.io)
-- [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
 
 
 ### Interview
@@ -218,6 +218,7 @@
 
 
 ### Blogs
+- [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
 - [Overreacted](https://overreacted.io/)
 - [JavaScript Glossary](https://whatthefuck.is/)
 
