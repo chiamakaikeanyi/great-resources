@@ -202,7 +202,7 @@
 - [The 50 best free online university courses](https://medium.freecodecamp.org/top-50-free-online-courses-2018-e67d0da38e95)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/)
 - [The Developer’s Edge: How To Become A Senior Developer](https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/)
-
+- [Teaching the art of great documentation](https://developers.googleblog.com/2020/07/teaching-art-of-great-documentation.html)
 
 ### Generic
 - [JAM Stack](https://whats-your-jamstack.amberley.io)
