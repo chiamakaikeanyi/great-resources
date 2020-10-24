@@ -187,6 +187,7 @@
 - [Web.dev](https://web.dev)
 - [Google Developers Web platform](https://developers.google.com/web)
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [Breaking Down the Performance API](https://css-tricks.com/breaking-performance-api/)
 
 
 ### DevTools
