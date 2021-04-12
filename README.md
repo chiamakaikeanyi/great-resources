@@ -211,6 +211,8 @@
 
 
 ### Interview
+- [The Interview Study Guide for Software Engineers](https://www.coriers.com/the-interview-study-guide-for-software-engineers)
+- [On Getting into Google](https://ayomideoyekanmi.medium.com/on-getting-into-google-8bb1afcfd526)
 - [Culture Queries](https://www.keyvalues.com/culture-queries)
 
 
