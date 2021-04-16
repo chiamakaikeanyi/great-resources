@@ -29,6 +29,7 @@
 - [Gtm](#gtm)
 - [Articles](#articles)
 - [Generic](#generic)
+- [Coding](#coding)
 - [Interview](#interview)
 - [Reminder](#Reminder)
 - [Blogs](#blogs)
@@ -205,9 +206,14 @@
 - [The Developer’s Edge: How To Become A Senior Developer](https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/)
 - [Teaching the art of great documentation](https://developers.googleblog.com/2020/07/teaching-art-of-great-documentation.html)
 
+
 ### Generic
 - [JAM Stack](https://whats-your-jamstack.amberley.io)
 - [Dev docs](https://devdocs.io)
+
+
+### Coding
+- [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
 
 
 ### Interview
