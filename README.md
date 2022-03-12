@@ -92,7 +92,7 @@
 
 
 ### React
-- [React Docs](https://reactjs.org/docs)
+- [React Docs](https://reactjs.org/docs) || [React Docs](https://beta.reactjs.org/)
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 - [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 - [How To Write Better Code In React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
