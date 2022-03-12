@@ -102,7 +102,7 @@
 - [Understanding React “Suspense”](https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6)
 - [How To Develop A Professional React App](https://itnext.io/how-to-develop-a-professional-react-app-c259382372cb)
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-
+- [React component code smells](https://antongunnarsson.com/react-component-code-smells/)
 
 ### NextJS
 - [Tutorial](https://nextjs.org/learn/)
