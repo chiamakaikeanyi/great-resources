@@ -56,12 +56,14 @@
 - [Design Patterns and Techniques](https://vasanthk.gitbooks.io/react-bits/patterns/27.passing-function-to-setState.html)
 - [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
 - [System Design](https://www.youtube.com/c/FrontEndEngineer)
+- [System Design]](https://tianpan.co/notes/177-designing-Airbnb-or-a-hotel-booking-system)
 
 
 ### Clean Code
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Clean Code Python](https://github.com/zedr/clean-code-python)
+- [Refactoring](https://refactoring.guru)
 
 
 ### Code Review
