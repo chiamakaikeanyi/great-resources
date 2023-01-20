@@ -56,7 +56,7 @@
 - [Design Patterns and Techniques](https://vasanthk.gitbooks.io/react-bits/patterns/27.passing-function-to-setState.html)
 - [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
 - [System Design](https://www.youtube.com/c/FrontEndEngineer)
-- [System Design]](https://tianpan.co/notes/177-designing-Airbnb-or-a-hotel-booking-system)
+- [Booking system](https://tianpan.co/notes/177-designing-Airbnb-or-a-hotel-booking-system)
 
 
 ### Clean Code
