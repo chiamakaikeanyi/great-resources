@@ -4,6 +4,7 @@
 
 ### Content
 - [Computing](#computing)
+- [Accessibility](accessibility)
 - [Architecture](#architecture)
 - [Clean Code](#clean-code)
 - [Code Review](#code-review)
@@ -43,6 +44,11 @@
 - [Web development,illustrated](https://illustrated.dev/)
 - [Hands-on Regex 1](https://regex101.com/)
 - [Hands-on Regex 2](https://www.debuggex.com/)
+
+
+### Accessibility
+- [The A11y Project](https://www.a11yproject.com)
+- [Accessibility course on web.dev](https://web.dev/learn/accessibility/)
 
 
 ### Architecture
@@ -139,8 +145,8 @@
 - [Detailed Android Course](http://www.vogella.com)
 
 
-### Git :octocat:
-- [Working with Git](https://chiamakaikeanyi.dev/working-with-git/)
+### Git
+- [Working with Git](https://chiamakaikeanyi.dev/working-with-git/) :octocat:
 - [Changing Author Info](https://help.github.com/articles/changing-author-info/)
 - [Publish app bootstraped with create-react-app](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
