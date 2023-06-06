@@ -242,6 +242,7 @@
 - [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
 - [Overreacted](https://overreacted.io/)
 - [JavaScript Glossary](https://whatthefuck.is/)
+- [Get good at programming](https://exercism.org/)
 
 
 ### Newsletter
