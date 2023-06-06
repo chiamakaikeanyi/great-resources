@@ -35,7 +35,7 @@
 - [Reminder](#Reminder)
 - [Blogs](#blogs)
 - [Newsletter](#newsletter)
-
+- [Challenges](#challenges)
 
 ### Computing
 - [Roadmap](https://roadmap.sh/)
@@ -84,6 +84,8 @@
 - [CSS Triggers](https://csstriggers.com/)
 - [Things to Note in CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [CSS Grid Garden](https://cssgridgarden.com/)
 
 
 ### JavaScript
@@ -242,8 +244,12 @@
 - [Blogs](https://twitter.com/dan_abramov/status/1066851414213894144)
 - [Overreacted](https://overreacted.io/)
 - [JavaScript Glossary](https://whatthefuck.is/)
-- [Get good at programming](https://exercism.org/)
 
 
 ### Newsletter
 - [Just Javascript](https://justjavascript.com/)
+
+
+### Challenges
+- [Get good at programming](https://exercism.org/)
+- [Frontend](https://www.frontendmentor.io/)
