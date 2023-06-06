@@ -4,7 +4,7 @@
 
 ### Content
 - [Computing](#computing)
-- [Accessibility](accessibility)
+- [Accessibility](#accessibility)
 - [Architecture](#architecture)
 - [Clean Code](#clean-code)
 - [Code Review](#code-review)
