@@ -51,6 +51,7 @@
 - [The A11y Project](https://www.a11yproject.com)
 - [Accessibility course on web.dev](https://web.dev/learn/accessibility/)
 - [Radix-ui components](https://www.radix-ui.com/)
+- [WAI](https://www.w3.org/WAI/roles/new/)
 
 
 ### Architecture
