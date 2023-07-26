@@ -77,6 +77,7 @@
 
 ### Code Review
 - [Effective Code Reviews](https://medium.com/paypal-engineering/effective-code-reviews-53d62a203b2f)
+- [A complete guide to code reviews](https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/)
 
 
 ### CSS
