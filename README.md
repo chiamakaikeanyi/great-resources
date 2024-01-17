@@ -73,6 +73,7 @@
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Clean Code Python](https://github.com/zedr/clean-code-python)
 - [Refactoring](https://refactoring.guru)
+- [Cognitive Complexity](https://assets-eu-01.kc-usercontent.com/14a55959-a51a-01d5-d7c0-1d06e516432a/39475230-c3ff-4e73-8ab3-fe0c9f21e9dd/Cognitive_Complexity_Sonar_Guide_2023.pdf)
 
 
 ### Code Review
